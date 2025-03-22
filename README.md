@@ -30,7 +30,7 @@ code .
 Then, right-click index.html → Open with Live Server.
 
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 
 HTML5, CSS3, JavaScript
@@ -41,7 +41,7 @@ Smooth animations
 
 Local storage (Optional future feature)
 
-📌 How to Use
+## 📌 How to Use
 
 1️⃣ Enter a date and time in the input field.
 2️⃣ Click the "Add Timer" button.
@@ -50,11 +50,11 @@ Local storage (Optional future feature)
 5️⃣ Click the "❌" button to remove a timer.
 6️⃣ Click "🔇 Stop Sound" to stop the alarm manually.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-🤝 Contribution Guidelines
+## 🤝 Contribution Guidelines
 
 Feel free to contribute!
 
