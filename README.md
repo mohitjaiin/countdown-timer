@@ -20,14 +20,19 @@ A sleek, modern countdown timer web application that lets users set multiple tim
 1️⃣ **Clone the repository**  
 git clone https://github.com/YOUR-USERNAME/Countdown-Timer.git
 cd Countdown-Timer
+
 2️⃣ Open index.html in your browser
 start index.html   # For Windows
 open index.html    # For macOS
+
 3️⃣ Alternatively, launch with Live Server (VS Code required)
 code .
 Then, right-click index.html → Open with Live Server.
 
+
 ⚙️ Technologies Used
+
+
 HTML5, CSS3, JavaScript
 
 Boxicons for icons
@@ -37,6 +42,7 @@ Smooth animations
 Local storage (Optional future feature)
 
 📌 How to Use
+
 1️⃣ Enter a date and time in the input field.
 2️⃣ Click the "Add Timer" button.
 3️⃣ The countdown will start immediately.
@@ -45,9 +51,11 @@ Local storage (Optional future feature)
 6️⃣ Click "🔇 Stop Sound" to stop the alarm manually.
 
 📜 License
+
 This project is licensed under the MIT License.
 
 🤝 Contribution Guidelines
+
 Feel free to contribute!
 
 Fork the repository
